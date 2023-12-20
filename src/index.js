@@ -1,12 +1,12 @@
 // Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
-let nomeDoSeuHeroi = "christinho do poder"
-let expHeroi = 10001
-let rank
+let nomeDoSeuHeroi = "christinho do poder";
+let expHeroi = 10001;
+let rank;
 
 if (expHeroi = 0) {
-    rank = "ferro"
-    console.log( rank )
+    rank = "ferro";
+    console.log( rank );
 
 
 
