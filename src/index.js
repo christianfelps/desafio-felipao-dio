@@ -4,7 +4,7 @@ let nomeDoSeuHeroi = "christinho do poder"
 let expHeroi = 10001
 let rank
 
-if (expHeroi < 0) {
+if (expHeroi = 0) {
     rank = "ferro"
     console.log( rank )
 
